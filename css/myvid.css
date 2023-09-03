@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.container{
+    width: 80%;
+    border: 0px solid black;
+    display: block;
+}
+
+body {
+    font-family: 'Oswald', sans-serif !important;
+}
